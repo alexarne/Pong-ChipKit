@@ -22,6 +22,24 @@ Written by [Marcus Nilszén](https://github.com/mebn) and [Alex Gunnarsson](http
 
 Video highlighting the main functionalities and features of the game: https://youtu.be/LYdWxMv3mJM
 
+## Features
+
+The user can initially choose to play as singleplayer or multiplayer, or view the saved highscores.
+
+In singleplayer, the user chooses difficulty of the AI which controls the other paddle:
+* EASY: The user's paddle is infinitely wide, impossible to lose, and the AI's paddle follows the ball with a delay of 20 game updates.
+* NORMAL: AI's paddle follows the ball with a delay of 10 game updates.
+* HARD: Once in its half of the playing field, the AI predicts where to move in order to correctly block the ball.
+* IMPOSSIBLE: The AI predicts where to move in order to correctly block the ball.
+
+In multiplayer, two sets of buttons are given to each player. 
+
+Highscore displays the highscores for each of the singleplayer difficulties, is still saved despite the device being powered off.
+
+In-game, the ball bounces differently depending on where it hits the paddle. The in-game timer is achieved by utilizing the hardware timer and interrupts.
+
+If the user scores a highscore, they may input their name and save their highscore. The name is limited to 6 characters but can be less since it trims excessive spaces.
+
 ## Controls
 
 * Home screen and Difficulty selection menu:
