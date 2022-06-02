@@ -43,17 +43,17 @@ If the user scores a highscore, they may input their name and save their highsco
 ## Controls
 
 * Home screen and Difficulty selection menu:
-  * BTN 4 and BTN 3 navigates the menu.
+  * BTN4 and BTN3 navigates the menu.
   * BTN1 selects the current selection.
   * BTN2 returns to previous screen.
-* Game screen (singleplayer and mulitplayer)
+* Game screen (singleplayer and multiplayer)
   * BTN4 and BTN3 moves paddle 1 up and down.
   * BTN1 and BTN2 moves paddle 2 up and down.
 * Enter-your-name screen
-  * BTN 4 and BTN3 moves between character location.
-  * BTN2 and BTN1 changes letter [ A-Z].
-  * BTN4 when current selection is at start, exits and returns to the main menu.
-  * BTN3 when current selection is at end, saves name and score to leaderboard.
+  * BTN4 and BTN3 moves between character location.
+  * BTN2 and BTN1 changes letter [A-Z].
+  * BTN4, when current selection is at start, exits and returns to the main menu.
+  * BTN3, when current selection is at end, saves name and score to leaderboard.
 
 * Highscore screen
   * BTN4 and BTN3 moves between difficulties leaderboard.
