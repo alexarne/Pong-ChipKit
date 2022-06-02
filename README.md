@@ -1,6 +1,6 @@
 # pong_is1500
 
-Advanced project in IS1500 Datorteknik och komponenter (dtek) at KTH 2021.
+Advanced project in IS1500 Datorteknik och komponenter (DTEK) at KTH 2021.
 
 Classic pong game on uno32/uc32 chipkit with IO Shield.
 
