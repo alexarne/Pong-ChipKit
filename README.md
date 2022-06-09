@@ -1,10 +1,8 @@
-# pong_is1500
+# Pong ChipKit
 
-Advanced project in IS1500 Datorteknik och komponenter (DTEK) at KTH 2021.
+Written by [Alex Gunnarsson](https://github.com/alexarne) and [Marcus Nilszén](https://github.com/mebn).
 
-Classic pong game on uno32/uc32 chipkit with IO Shield.
-
-Written by [Marcus Nilszén](https://github.com/mebn) and [Alex Gunnarsson](https://github.com/alexarne).
+Advanced project in IS1500 Datorteknik och komponenter (DTEK) at KTH 2021. Classic pong game on uno32/uc32 chipkit with IO Shield.
 
 ## Images
 
