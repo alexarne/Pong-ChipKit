@@ -20,7 +20,7 @@ Advanced project in IS1500 Datorteknik och komponenter (DTEK) at KTH 2021. Class
 
 [Full video on YouTube](https://youtu.be/LYdWxMv3mJM)
 
-![qwdqwd](/images/video.gif)
+[<img src="/images/video.gif" width="400"/>](https://youtu.be/LYdWxMv3mJM)
 
 ## Features
 
