@@ -18,7 +18,9 @@ Advanced project in IS1500 Datorteknik och komponenter (DTEK) at KTH 2021. Class
 
 ## Video Demo
 
-Video highlighting the main functionalities and features of the game: https://youtu.be/LYdWxMv3mJM
+[Full video on YouTube](https://youtu.be/LYdWxMv3mJM)
+
+![qwdqwd](/images/video.gif)
 
 ## Features
 
